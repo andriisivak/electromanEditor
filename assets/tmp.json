@@ -1,3 +1,13 @@
 {
-  "data": [1, 2, 3]
+  "width": 13,
+  "height": 8,
+  "layers": [
+    {
+      "id": 1,
+      "name": "Background"
+    }
+  ],
+  "tilewidth": 48,
+  "tileheight": 48,
+  "tilesets": []
 }

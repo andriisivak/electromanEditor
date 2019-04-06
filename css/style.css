@@ -3,6 +3,8 @@
   padding: 0;
   outline: none;
   transition: .2s all;
+  font-family: sans-serif;
+  font-size: 14px;
 }
 
 #editor {
@@ -40,6 +42,22 @@
   border: 1px solid rgb(230, 230, 230);
 }
 
+#layers {
+  width: 1000px;
+  height: 80px;;
+  margin: 0 auto;
+  line-height: 80px;
+  text-align: right;
+}
+
+#layers input {
+  cursor: pointer;
+}
+
+#layers span {
+  margin: 0 15px 0 5px;
+}
+
 #result {
   width: 1000px;
   height: 80px;;
@@ -58,7 +76,6 @@
   margin: 15px 0 0 0;
   line-height: 50px;
   text-decoration: none;
-  font-family: sans-serif;
   text-align: center;
 }
 
