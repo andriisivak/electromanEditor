@@ -42,6 +42,10 @@
   border: 1px solid rgb(230, 230, 230);
 }
 
+#tiles img {
+  cursor: pointer;
+}
+
 #layers {
   width: 1000px;
   height: 80px;;
