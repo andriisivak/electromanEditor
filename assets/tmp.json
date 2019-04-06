@@ -4,10 +4,36 @@
   "layers": [
     {
       "id": 1,
-      "name": "Background"
+      "name": "Background",
+      "width": 13,
+      "height": 8,
+      "data": [1, "from 0 to 104", 0]
+    },
+    {
+      "id": 1,
+      "name": "Walls",
+      "width": 13,
+      "height": 8,
+      "data": [1, "from 0 to 104", 0]
+    },
+    {
+      "id": 1,
+      "name": "Objects",
+      "width": 13,
+      "height": 8,
+      "data": [1, "from 0 to 104", 0]
+    },
+    {
+      "id": 1,
+      "name": "Monsters",
+      "width": 13,
+      "height": 8,
+      "data": [1, "from 0 to 104", 0]
     }
   ],
   "tilewidth": 48,
   "tileheight": 48,
-  "tilesets": []
+  "tilesets": [{
+    "image": "image_path"
+  }]
 }
