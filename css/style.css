@@ -48,9 +48,9 @@
 
 #layers {
   width: 1000px;
-  height: 80px;;
+  height: 40px;;
   margin: 0 auto;
-  line-height: 80px;
+  line-height: 40px;
   text-align: right;
 }
 
@@ -64,21 +64,21 @@
 
 #result {
   width: 1000px;
-  height: 80px;;
-  margin: 0 auto;
+  height: 40px;
+  margin: 10px auto;
 }
 
 #save-as-json {
-  width: 160px;
-  height: 50px;
+  width: 130px;
+  height: 40px;
   background-color: green;
   color: aliceblue;
   text-transform: uppercase;
-  font-size: 20px;
+  font-size: 16px;
   border-radius: 5px;
   float: right;
-  margin: 15px 0 0 0;
-  line-height: 50px;
+  /* margin: 15px 0 0 0; */
+  line-height: 40px;
   text-decoration: none;
   text-align: center;
 }
